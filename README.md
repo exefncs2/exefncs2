@@ -38,7 +38,7 @@
 
 | Project | Highlights | Stack |
 | :--- | :--- | :--- |
-| [**data-engineering-lab**](https://github.com/exefncs2/data-engineering-lab) | 現代資料工程實戰實驗室：Airflow + dbt + Elementary、Dagster、Prefect、GCS Gateway、RAG 向量檢索與 Trino／Presto／BigQuery 研究文件 | `Airflow` `dbt` `Dagster` `Prefect` `BigQuery` `Docker` |
-| [**pyspark-ml-pipeline-demo**](https://github.com/exefncs2/pyspark-ml-pipeline-demo) | 端對端串流機器學習展示：PostgreSQL（ODS／DWH／DM）+ Redis + RabbitMQ + PySpark + FastAPI／Vue 3 | `PySpark` `RabbitMQ` `Redis` `PostgreSQL` `FastAPI` `Vue 3` |
-| [**async-mysql-migrator**](https://github.com/exefncs2/async-mysql-migrator) | 非同步 MySQL 跨庫遷移 CLI 工具：定額記憶體串流分批搬移、自動正規化 `utf8mb4` 並附單元測試 | `Python` `asyncio` `aiomysql` `MySQL` |
-| [**flutter-fastapi-board**](https://github.com/exefncs2/flutter-fastapi-board) | 跨平臺行動應用全端範例：QR Code WebSocket 即時認證登入、JWT 權限驗證與留言評論系統 | `Flutter` `Dart` `FastAPI` `WebSocket` `JWT` |
+| [**data-engineering-lab**](https://github.com/exefncs2/data-engineering-lab) | 資料工程實驗與筆記庫：Airflow + dbt、Dagster、Prefect 容器範例、GCS 上傳 API、RAG 實驗與 Trino／Presto／BigQuery 筆記 | `Airflow` `dbt` `Dagster` `Prefect` `BigQuery` `Docker` |
+| [**pyspark-ml-pipeline-demo**](https://github.com/exefncs2/pyspark-ml-pipeline-demo) | 資料管線串接練習：PostgreSQL（ODS／DWH／DM）+ Redis + RabbitMQ + PySpark + FastAPI／Vue 3 圖表展示 | `PySpark` `RabbitMQ` `Redis` `PostgreSQL` `FastAPI` `Vue 3` |
+| [**async-mysql-migrator**](https://github.com/exefncs2/async-mysql-migrator) | 非同步 MySQL 跨庫搬移工具：分批讀寫、清洗 `0000-00-00` 零日期、自動轉 `utf8mb4` 並附單元測試 | `Python` `asyncio` `aiomysql` `MySQL` |
+| [**flutter-fastapi-board**](https://github.com/exefncs2/flutter-fastapi-board) | FastAPI＋Flutter 輕量原型：內建 WebSocket QR Code 掃碼配對登入、JWT 與記憶體留言板 | `Flutter` `Dart` `FastAPI` `WebSocket` `JWT` |
