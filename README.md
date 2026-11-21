@@ -38,7 +38,7 @@
 
 | Project | Highlights | Stack |
 | :--- | :--- | :--- |
-| [**data-engineering-lab**](https://github.com/exefncs2/data-engineering-lab) | 現代資料工程實戰實驗室：Airflow + dbt + Elementary、Dagster、Prefect、GCS Gateway、RAG 向量檢索與 Trino／Presto／BigQuery 研究文檔 | `Airflow` `dbt` `Dagster` `Prefect` `BigQuery` `Docker` |
+| [**data-engineering-lab**](https://github.com/exefncs2/data-engineering-lab) | 現代資料工程實戰實驗室：Airflow + dbt + Elementary、Dagster、Prefect、GCS Gateway、RAG 向量檢索與 Trino／Presto／BigQuery 研究文件 | `Airflow` `dbt` `Dagster` `Prefect` `BigQuery` `Docker` |
 | [**pyspark-ml-pipeline-demo**](https://github.com/exefncs2/pyspark-ml-pipeline-demo) | 端對端串流機器學習展示：PostgreSQL（ODS／DWH／DM）+ Redis + RabbitMQ + PySpark + FastAPI／Vue 3 | `PySpark` `RabbitMQ` `Redis` `PostgreSQL` `FastAPI` `Vue 3` |
 | [**async-mysql-migrator**](https://github.com/exefncs2/async-mysql-migrator) | 非同步 MySQL 跨庫遷移 CLI 工具：定額記憶體串流分批搬移、自動正規化 `utf8mb4` 並附單元測試 | `Python` `asyncio` `aiomysql` `MySQL` |
-| [**flutter-fastapi-board**](https://github.com/exefncs2/flutter-fastapi-board) | 跨平台行動應用全端範例：QR Code WebSocket 即時認證登入、JWT 權限驗證與留言評論系統 | `Flutter` `Dart` `FastAPI` `WebSocket` `JWT` |
+| [**flutter-fastapi-board**](https://github.com/exefncs2/flutter-fastapi-board) | 跨平臺行動應用全端範例：QR Code WebSocket 即時認證登入、JWT 權限驗證與留言評論系統 | `Flutter` `Dart` `FastAPI` `WebSocket` `JWT` |
